@@ -116,6 +116,7 @@ Follow these steps to run the project on your system:
 git clone https://github.com/aydenfromproxima/CropRecommendation.git
 ```
 cd CropRecommendation
+
  2. Install Dependencies
 
 Make sure Python is installed, then run:
